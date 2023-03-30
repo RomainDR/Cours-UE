@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/DROU0912/Desktop/UE/Interaction/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/DROU0912/Desktop/UE/Interaction/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/R7/0F7HN7QM5P13R2YLU0C952.uasset",
+				"C:/Users/DROU0912/Desktop/UE/Interaction/Content/TriggerboxActorBP.uasset",
+				"C:/Users/DROU0912/Desktop/UE/Interaction/Content/Levzel/LightTrigger.umap",
+				"C:/Users/DROU0912/Desktop/UE/Interaction/Content/MyTriggerBoxChangeColorBP.uasset",
+				"C:/Users/DROU0912/Desktop/UE/Interaction/Content/GoogleSettings.uasset"
+			]
+		}
+	]
+}
