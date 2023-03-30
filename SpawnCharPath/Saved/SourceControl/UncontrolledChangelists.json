@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/DROU0912/Desktop/UE/SpawnCharPath/Content/Level/Spawner.umap",
+				"C:/Users/DROU0912/Desktop/UE/SpawnCharPath/Content/Spawner/BasicSpawner.uasset",
+				"C:/Users/DROU0912/Desktop/UE/SpawnCharPath/Content/Spawner/BasicSpawnNoClamp.uasset",
+				"C:/Users/DROU0912/Desktop/UE/SpawnCharPath/Content/Level/Path.umap",
+				"C:/Users/DROU0912/Desktop/UE/SpawnCharPath/Content/BP/PathActorBP.uasset",
+				"C:/Users/DROU0912/Desktop/UE/SpawnCharPath/Content/BP/Item.uasset",
+				"C:/Users/DROU0912/Desktop/UE/SpawnCharPath/Content/BP/CharacterPathBP.uasset"
+			]
+		}
+	]
+}
